@@ -15,7 +15,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/ma-andreina/ma-andreina/raw/main/assets/mdImages/about_me.gif" width="40"></picture> **About Me**
+## **About Me**
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="230"></picture>
 
@@ -59,22 +59,23 @@ I am a multidisciplinary professional bridging the gap between **Software Engine
 
 ## 📌 **Pinned Projects**
 
-<div align="center">
-  <a href="https://github.com/ma-andreina/APPSAI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ma-andreina&repo=APPSAI&theme=default&border_color=e1e4e8&border_radius=6&show_owner=false" alt="APPSAI" width="48%" />
-  </a>
-  <a href="https://github.com/ma-andreina/hotel-indigo" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ma-andreina&repo=proyectohotel&theme=default&border_color=e1e4e8&border_radius=6&show_owner=false" alt="Sistema Web Hotel Indigo" width="48%" />
-  </a>
-</div>
-
-<br>
-<hr>
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 <a href="https://github.com/ma-andreina/APPSAI">APPSAI</a> <span style="font-size: 11px; border: 1px solid #d0d7de; border-radius: 10px; padding: 2px 7px; color: #57606a;">Public</span></h3>
+      <p>Sistema de gestión y auditoría basado en normas de seguridad de la información ISO/IEC 27001.</p>
+      <p><span style="color: #3572A5;">
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 <a href="https://github.com/ma-andreina/hotel-indigo">Sistema Web Hotel Indigo</a> <span style="font-size: 11px; border: 1px solid #d0d7de; border-radius: 10px; padding: 2px 7px; color: #57606a;">Public</span></h3>
+      <p>Plataforma web para la gestión de reservas, control de habitaciones y administración hotelera.</p>
+      <p><span style="color: #4F5D95;">
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> <b>GitHub Metrics</b>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ma-andreina&theme=radical" alt="GitHub Streak" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ma-andreina&theme=radical" alt="Top Languages" height="165" />
 </div>
