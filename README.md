@@ -17,8 +17,6 @@
 
 ## **About Me**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="230"></picture>
-
 I am a multidisciplinary professional bridging the gap between **Software Engineering**, **Legal Frameworks**, and **Information Governance**. I am expanding my knowledge in both front-end and back-end development. I love learning and building things that are new, productive, innovative, and creative.
 
 - 🔭 **Areas of focus**: Web platform development, automation, and management systems for audits and ISO/IEC 27001 compliance standards.
