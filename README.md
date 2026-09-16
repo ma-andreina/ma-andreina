@@ -65,7 +65,7 @@ I am a multidisciplinary professional bridging the gap between **Software Engine
       <p><span style="color: #3572A5;">
     </td>
     <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/ma-andreina/hotel-indigo">Sistema Web Hotel Indigo</a> <span style="font-size: 11px; border: 1px solid #d0d7de; border-radius: 10px; padding: 2px 7px; color: #57606a;">Public</span></h3>
+      <h3>📖 <a href="https://github.com/ma-andreina/proyectohotel">Sistema Web Hotel Indigo</a> <span style="font-size: 11px; border: 1px solid #d0d7de; border-radius: 10px; padding: 2px 7px; color: #57606a;">Public</span></h3>
       <p>Plataforma web para la gestión de reservas, control de habitaciones y administración hotelera.</p>
       <p><span style="color: #4F5D95;">
     </td>
